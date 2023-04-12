@@ -1,0 +1,1 @@
+.venv/bin/uvicorn src.main:app --reload
